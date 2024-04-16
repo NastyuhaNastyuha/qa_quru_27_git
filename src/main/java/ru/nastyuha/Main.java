@@ -1,8 +1,9 @@
 package ru.nastyuha;
 
 public class Main {
-    public static void main(String[] args) {
+    private static String message = "Hello Nastyuha!!!";
 
+    public static void main(String[] args) {
         System.out.println("Hello Nastyuha!");
     }
 }
